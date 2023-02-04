@@ -24,7 +24,7 @@ const Home = () => {
       <Newsletter />
       <Footer />
 
-    </Fragment>
+    </Fragment> 
   )
 }
 
